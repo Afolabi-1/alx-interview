@@ -1,12 +1,11 @@
 #!/usr/bin/python3
 """
-0. alx interview pascals triangle
+Adetunji Afolabi
 """
 
 
 def pascal_triangle(n):
-    """Create a function that returns a list of lists
-    of integers representing the Pascal’s triangle of n
+    """
     """
     lis = []
     if n > 0:
