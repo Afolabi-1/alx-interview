@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Minimum operations challenge.
+'''Adetunji Afolabi
 '''
 
 
