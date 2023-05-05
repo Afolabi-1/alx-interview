@@ -5,7 +5,7 @@ Adetunji Afolabi
 
 
 def pascal_triangle(n):
-    """
+    """Adetunji Afolabi
     """
     lis = []
     if n > 0:
