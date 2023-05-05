@@ -3,7 +3,7 @@
 
 
 def look_next_opened_box(opened_boxes):
-    """
+    """Adetunji Afolabi
     """
     for index, box in opened_boxes.items():
         if box.get('status') == 'opened':
