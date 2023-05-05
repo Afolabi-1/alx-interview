@@ -4,7 +4,7 @@
 
 
 def minOperations(n):
-    '''
+    '''Adetunji Afolabi
     '''
     if not isinstance(n, int):
         return 0
