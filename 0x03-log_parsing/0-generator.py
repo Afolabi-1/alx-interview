@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''A script that generates random HTTP request logs.
+'''Adetunji AFolabi
 '''
 import random
 import sys
