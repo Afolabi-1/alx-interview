@@ -1,11 +1,12 @@
 #!/usr/bin/python3
-"""UTF-8 validation module.
+"""
+Adetunji Afolabi
+UTF-8 validation module.
 """
 
 
 def validUTF8(data):
-    """Checks if a list of integers are valid UTF-8 codepoints.
-    See <https://datatracker.ietf.org/doc/html/rfc3629#page-4>
+    """Checks for valid UTF-8 codepoints.
     """
     skip = 0
     n = len(data)
