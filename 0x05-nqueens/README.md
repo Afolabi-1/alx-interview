@@ -1,6 +1,6 @@
 # N Queens
 
-This project contains interview coding challenges.
+This project was created by adetunji Afolabi
 
 ## Tasks To Complete
 
