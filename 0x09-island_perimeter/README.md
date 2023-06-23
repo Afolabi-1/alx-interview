@@ -1,6 +1,6 @@
 # Island Perimeter
 
-This project contains interview coding challenges.
+This project was created by Adetunji Afolabi
 
 ## Tasks To Complete
 
